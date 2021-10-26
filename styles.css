@@ -1,0 +1,76 @@
+body {
+    margin: 0 0;
+}
+
+.heading {
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    background-color: #ffe3e3;
+    color: #262A53;
+    font-size: 60px;
+    padding: 1em;
+    margin-bottom: 0;
+}
+
+.recipes {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    background-color: #628395;
+    color: #ffa0a0;
+    margin-top: 0;
+    padding: 1em;
+    text-align: center;
+}
+.description {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #ffe3e3;
+    color: #262A53;
+    padding: 1em;
+    margin-bottom: 0;
+}
+
+.description img {
+    height: auto;
+    width: 448px;
+}
+
+.description h1 {
+    font-size: 60px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.description h3 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 36px;
+
+}
+
+.ingredients {
+    background-color: #628395;
+    color: white;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 0;
+    padding: 1em 10em;
+}
+
+.ingredients h3 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 36px;
+    text-align: center;
+}
+
+.steps {
+    background-color: #ffe3e3;
+    color: #262A53;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 0;
+    padding: 1em 10em;
+}
+
+.steps h3 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 36px;
+    text-align: center;
+}
